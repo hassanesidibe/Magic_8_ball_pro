@@ -11,8 +11,8 @@
 		4533014B2989991400C0A243 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4533014A2989991400C0A243 /* SceneDelegate.swift */; };
 		4533014D2989991400C0A243 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4533014C2989991400C0A243 /* ViewController.swift */; };
 		453301502989991400C0A243 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4533014E2989991400C0A243 /* Main.storyboard */; };
-		453301522989991500C0A243 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 453301512989991500C0A243 /* Assets.xcassets */; };
 		453301552989991500C0A243 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 453301532989991500C0A243 /* LaunchScreen.storyboard */; };
+		4533015D29899A9600C0A243 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4533015C29899A9600C0A243 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,9 +21,9 @@
 		4533014A2989991400C0A243 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		4533014C2989991400C0A243 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		4533014F2989991400C0A243 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		453301512989991500C0A243 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		453301542989991500C0A243 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		453301562989991500C0A243 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4533015C29899A9600C0A243 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../Angela_Yu_course/Magic-8-Ball-iOS13/Magic 8 Ball/Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +60,7 @@
 				4533014A2989991400C0A243 /* SceneDelegate.swift */,
 				4533014C2989991400C0A243 /* ViewController.swift */,
 				4533014E2989991400C0A243 /* Main.storyboard */,
-				453301512989991500C0A243 /* Assets.xcassets */,
+				4533015C29899A9600C0A243 /* Assets.xcassets */,
 				453301532989991500C0A243 /* LaunchScreen.storyboard */,
 				453301562989991500C0A243 /* Info.plist */,
 			);
@@ -126,7 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				453301552989991500C0A243 /* LaunchScreen.storyboard in Resources */,
-				453301522989991500C0A243 /* Assets.xcassets in Resources */,
+				4533015D29899A9600C0A243 /* Assets.xcassets in Resources */,
 				453301502989991400C0A243 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
